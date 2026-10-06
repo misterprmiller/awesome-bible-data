@@ -29,6 +29,7 @@ Biblical data including translations, tagged original language texts, second tem
 #### Translations
 
   - [Aligned Bible Texts](https://github.com/Clear-Bible/Alignments), automatic and/or manually corrected.
+  - [Anselm Project Bible](https://huggingface.co/datasets/misterprmiller/anselm-project-bible) (JSONL, CC BY 4.0) - A complete open English translation (66 books, 31,166 verses) generated from OSHB and SBLGNT+MorphGNT word data by a blind LLM committee pipeline. [Readable site with per-verse morphology and the full translation record](https://www.anselm-project.com/bible/about).
   - [Bible corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
   - [Gratis Bible](https://github.com/gratis-bible/bible) (OSIS XML)
   - [Open English Bible](https://github.com/openenglishbible/Open-English-Bible) - A CC0 Bible translation.
